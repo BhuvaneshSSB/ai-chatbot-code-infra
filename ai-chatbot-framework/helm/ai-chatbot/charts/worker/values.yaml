@@ -1,0 +1,8 @@
+enabled: true
+
+image: {}
+replicaCount: 1
+
+resources: {}
+
+nodeSelector: {}

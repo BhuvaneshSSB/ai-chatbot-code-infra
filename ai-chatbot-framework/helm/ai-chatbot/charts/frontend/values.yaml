@@ -1,0 +1,6 @@
+enabled: true
+image: {}
+replicaCount: 1
+service: {}
+containerPort: 3000
+resources: {}

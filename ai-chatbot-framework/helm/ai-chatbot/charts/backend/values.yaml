@@ -1,0 +1,21 @@
+enabled: true
+
+image: {}
+replicaCount: 1
+containerPort: 8000
+resources: {}
+
+health: {}
+
+autoscaling: {}
+
+secrets:
+  enabled: false
+  name: ""
+
+externalMongo:
+  enabled: false
+  passwordSecret:
+    name: ""
+    key: ""
+
